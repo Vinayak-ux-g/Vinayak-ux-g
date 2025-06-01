@@ -1,6 +1,6 @@
 # 🚀 Vinayak Gavade | Python Developer | AWS | Data Science | AI & ML  
 
-![Tech Banner](https://source.unsplash.com/1200x300/?technology,data)  
+![Tech Banner](https://drive.google.com/file/d/1lPByqL4S4nOmMU0LmgAHhR419k-McLgb/view?usp=sharing)  
 
 ## 🎯 **About Me**  
 Hey there! I'm **Vinayak Gavade**, a 🚀 **Python Developer, Data Scientist & AWS Cloud Enthusiast** who transforms complex data into **actionable insights**. I love **automating workflows, visualizing data, and building scalable cloud-based solutions** to solve real-world problems! 🌟  
