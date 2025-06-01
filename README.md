@@ -70,3 +70,4 @@ A powerful **data-driven tool** for analyzing **customer behavior and business t
 ---
 
 Hope this **README.md** makes your GitHub profile **visually engaging** and **fun to explore**! ✨🚀 Let me know if you'd like more refinements! 💡🔥  
+![Tech Banner](https://drive.google.com/uc?id=1lPByqL4S4nOmMU0LmgAHhR419k-McLgb)
